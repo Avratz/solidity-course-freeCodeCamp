@@ -2,7 +2,7 @@
 
 pragma solidity >=0.6.0 < 0.9.0;
 
-import "../lesson-0/SimpleStorage.sol";
+import "../lesson-1/SimpleStorage.sol";
 
 //inheritance
 //contract StorageFactory is SimpleStorage {
